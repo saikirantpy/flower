@@ -1,0 +1,13 @@
+# Virtual environments
+flower_env/
+venv/
+.env/
+
+# Python junk
+__pycache__/
+*.pyc
+
+# Large datasets
+dataset_download/
+*.tgz
+*.zip
